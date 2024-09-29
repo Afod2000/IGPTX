@@ -15,7 +15,7 @@ if [ -f "/data/data/com.termux/files/usr/bin/termux-info" ]; then
     apt upgrade -y
     apt install python -y
     apt install python-pip -y
-    pip install huggingface_hub -y
+    pip install huggingface_hub 
     echo
     echo -e "\033[1;91m[+]\033[1;92m Installation is completed"
     echo -e "\033[1;91m[+]\033[1;92m Type \033[1;91mgptx\033[1;92m command to launch GPTX"
