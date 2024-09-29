@@ -1,7 +1,5 @@
 #!/bin/bash
-# https://github.com/VritraSecz
-# Code By: VritraSecz
-# Don't be copycat create your own
+# https://github.com/Afod2000
 
 # Printing banner
 echo
@@ -17,7 +15,7 @@ if [ -f "/data/data/com.termux/files/usr/bin/termux-info" ]; then
     apt upgrade -y
     apt install python -y
     apt install python-pip -y
-    pip install openai==0.28
+    pip install huggingface_hub -y
     echo
     echo -e "\033[1;91m[+]\033[1;92m Installation is completed"
     echo -e "\033[1;91m[+]\033[1;92m Type \033[1;91mgptx\033[1;92m command to launch GPTX"
