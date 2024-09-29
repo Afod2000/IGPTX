@@ -1,1 +1,1 @@
-key = "OPENAI_API_KEY"
+key = "HUGGINGFACE_HUB_API_KEY"
