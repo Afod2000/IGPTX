@@ -13,9 +13,9 @@ def exift():
     sleep(0.14)
     print("\033[1;91m[~]\033[1;92m YouTube: https://youtube.com/@Technolex")
     sleep(0.14)
-    print("\033[1;91m[~]\033[1;92m Telegram: https://t.me/LinkCentralX")
+    print("\033[1;91m[~]\033[1;92m Telegram: https://t.me/Selena_345")
     sleep(0.14)
-    print("\033[1;91m[~]\033[1;92m GitHub: https://github.com/VritraSecz\n")
+    print("\033[1;91m[~]\033[1;92m GitHub: https://github.com/Afod2000")
     sleep(0.14)
 
 # Function to connect to the Hidden Wiki using Tor with retry mechanism
